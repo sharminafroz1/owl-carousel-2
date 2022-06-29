@@ -1,0 +1,14 @@
+img{
+    height: 230px;
+    width: 400px;
+    border-radius: 10px;
+    
+}
+h1{
+    color: aqua;
+    background-color: black;
+    margin-top: 10px;
+}
+body{
+    background-color: lightskyblue;
+}
